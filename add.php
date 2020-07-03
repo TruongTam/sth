@@ -1,6 +1,4 @@
-<?php
-include_once("inc.php");
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,3 +14,6 @@ include_once("inc.php");
     </form>
 </body>
 </html>
+<?php
+include_once("inc.php");
+?>
